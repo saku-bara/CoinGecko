@@ -7,7 +7,7 @@
 pip install pycoingecko
 ```
 
-### edit path in the script
+## edit path in the script
 
 Provide proper path to the file where data will be saved. You need to edit `test.py` file. In my case it is:
 
