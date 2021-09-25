@@ -30,7 +30,7 @@ python test.py
 
 ### Example
 
-```python
-cg.get_coins_markets('usd')  # n = 10
+```
+enter the number: 10
 ['Bitcoin', 'Ethereum', 'Cardano', 'Tether', 'Binance Coin', 'XRP', 'Solana', 'Polkadot', 'USD Coin', 'Dogecoin']
 ```
