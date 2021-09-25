@@ -1,0 +1,2 @@
+python3
+pycoingecko library reliese 2.2.0
